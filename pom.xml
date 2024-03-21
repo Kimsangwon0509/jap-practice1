@@ -15,7 +15,8 @@
       <version>5.3.10.Final</version>
     </dependency>
 
-    <!--H2 데이터베이스-->
+    <!--H2 데이터베이스 -->
+    <!--내가 받은건 2.2.224 버전이므로 중간에 잘 안되면 버전 교체 필요 -->
     <dependency>
       <groupId>com.h2database</groupId>
       <artifactId>h2</artifactId>
